@@ -1,0 +1,20 @@
+# Local environments and notebook caches
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Secrets and local-only config
+.env
+.env.*
+*.secret
+
+# macOS
+.DS_Store
+
+# Keep internal workshop material out of the public repo if copied by mistake
+internal/
+collector/
+secret-registry/
+exports/private/
