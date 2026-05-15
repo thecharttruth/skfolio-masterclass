@@ -3,7 +3,7 @@
 This folder contains the public Colab notebook for:
 
 ```text
-skfolio Masterclass 01 - Foundations & ETF Data by The Chart Truth
+skfolio Masterclass 01 - Foundations & ETF Data
 ```
 
 Open the notebook from the main repository README using the **Open In Colab** badge.
